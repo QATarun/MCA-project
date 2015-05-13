@@ -1,0 +1,33 @@
+select * from advancedcomputerarchitecture
+select * from softwareprojectmanagement
+select * from compiledesign
+select * from neuralnetwork
+select * from advancedjava
+select * from diskoperatingsystem
+select * from cdlab
+select * from matlab
+select * from advancedjavalab
+select * from practicaltraining
+
+truncate table advancedcomputerarchitecture
+truncate table softwareprojectmanagement
+truncate table compiledesign
+truncate table neuralnetwork
+truncate table advancedjava
+truncate table diskoperatingsystem
+truncate table cdlab
+truncate table matlab
+truncate table advancedjavalab
+truncate table practicaltraining
+
+insert into practicaltraining (studentname, rollno) values ('Yatin',2340555)
+insert into practicaltraining (studentname, rollno) values ('Ketan',2340556)
+insert into practicaltraining (studentname, rollno) values ('Ritu',2340557)
+insert into practicaltraining (studentname, rollno) values ('Vinod',2340558)
+insert into practicaltraining (studentname, rollno) values ('Vandana',2340559)
+insert into practicaltraining (studentname, rollno) values ('Pooja',2340560)
+insert into practicaltraining (studentname, rollno) values ('Sumit',2340561)
+insert into practicaltraining (studentname, rollno) values ('Rahul',2340562)
+insert into practicaltraining (studentname, rollno) values ('Ramesh',2340563)
+insert into practicaltraining (studentname, rollno) values ('Rajiv',23405564)
+insert into practicaltraining (studentname, rollno) values ('Mahesh',2340565)

@@ -1,0 +1,15 @@
+create table sessional(
+studentname char(50),
+rollno int,
+mailid varchar(50),
+ACA int,
+SPM int,
+CD int,
+NN int,
+AJ int,
+DOS int
+)
+
+insert into sessional (studentname, rollno, mailid) values ('Yatin',2340555,'yatin.aneja143@gmail.com')
+insert into sessional (studentname, rollno, mailid) values ('Ketan',2340556,'adjangir@gmail.com')
+insert into sessional (studentname, rollno, mailid) values ('Ritu',2340557,'ritubhukall@gmail.com')
